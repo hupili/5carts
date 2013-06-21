@@ -18,6 +18,7 @@ Setup in three steps:
    `./init.sh git@github.com:hupili/5carts-test.git`.
    4. Modify `_config.yml` to input your own information.
    You can try out 5carts first and come back to modify it later.
+   (If your repo name is not `5carts`, please change `BASE_PATH` in `_config.yml` accordingly)
 
 Write and distribute your reviews:
 
